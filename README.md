@@ -10,7 +10,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baharak_webdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baharak_bakhtiari) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=the-little-spring&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
